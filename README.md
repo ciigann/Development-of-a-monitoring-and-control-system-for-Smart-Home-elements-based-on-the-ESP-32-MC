@@ -7,6 +7,11 @@
 
 https://github.com/user-attachments/assets/189f16cd-4fff-465f-a67e-c07130b05736
 
+
+https://github.com/user-attachments/assets/6e5fdd95-992f-4edd-bd38-ecbfc7e7bf82
+
+
+
 <p align="center">
   <strong> 1. ПАСПОРТ ПРОЕКТА </strong><br>
   Паспорт проекта «Разработка системы мониторинга и управления элементами «Умного дома» 
