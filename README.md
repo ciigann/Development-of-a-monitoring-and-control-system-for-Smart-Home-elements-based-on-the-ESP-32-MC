@@ -22,7 +22,8 @@ https://github.com/user-attachments/assets/6e5fdd95-992f-4edd-bd38-ecbfc7e7bf82
 
 <img width="831" height="1126" alt="image" src="https://github.com/user-attachments/assets/ea0a92cd-3e21-407b-9cc2-41c2e6ad19a5" />
 
-<img width="791" height="1182" alt="image" src="https://github.com/user-attachments/assets/083db079-cfe3-4bc9-bed7-5a0152954c6d" />
+<img width="779" height="1094" alt="image" src="https://github.com/user-attachments/assets/f3d44ca8-ea1c-47f9-a182-b41ab2e603db" />
+
 
 ## **2. ОПИСАНИЕ ПРОДУКТА ИЛИ УСЛУГИ**
 
